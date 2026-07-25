@@ -16,3 +16,6 @@
 *.pem
 .env*.local
 npm-debug.log*
+
+.vercel
+.env*

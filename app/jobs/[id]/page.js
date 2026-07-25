@@ -49,7 +49,7 @@ export default function JobDetailPage({ params }) {
       {job.responsibilities?.length > 0 && (
         <section className="mt-8">
           <h2 className="font-display text-lg font-600 mb-2">
-            What you'll do
+            What you&apos;ll do
           </h2>
           <ul className="space-y-1.5">
             {job.responsibilities.map((r, i) => (
@@ -65,7 +65,7 @@ export default function JobDetailPage({ params }) {
       {job.requirements?.length > 0 && (
         <section className="mt-8">
           <h2 className="font-display text-lg font-600 mb-2">
-            What we're looking for
+            What we&apos;re looking for
           </h2>
           <ul className="space-y-1.5">
             {job.requirements.map((r, i) => (
