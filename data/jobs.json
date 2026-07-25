@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Engineer",
+    "company": "Northwind Studio",
+    "location": "Hyderabad, IN (Onsite)",
+    "type": "Full-time",
+    "salary": "₹12L - ₹18L / yr",
+    "posted": "2026-07-20",
+    "tags": ["React", "TypeScript", "Tailwind"],
+    "description": "We're looking for a Frontend Engineer to build fast, accessible interfaces for our internal tools platform. You'll work closely with design and backend to ship features weekly.",
+    "responsibilities": [
+      "Build and maintain reusable UI components",
+      "Collaborate with designers to implement pixel-accurate interfaces",
+      "Optimize performance across low and high-end devices",
+      "Write tests for critical user flows"
+    ],
+    "requirements": [
+      "2+ years with React or similar frameworks",
+      "Strong CSS fundamentals",
+      "Experience with REST or GraphQL APIs",
+      "Comfortable working in a fast-paced team"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Backend Engineer (Node.js)",
+    "company": "Ledger Labs",
+    "location": "Remote (India)",
+    "type": "Full-time",
+    "salary": "₹15L - ₹22L / yr",
+    "posted": "2026-07-18",
+    "tags": ["Node.js", "PostgreSQL", "AWS"],
+    "description": "Join our platform team building the transaction engine behind a fintech product used by 200k+ merchants.",
+    "responsibilities": [
+      "Design and maintain scalable APIs",
+      "Own database schema and query performance",
+      "Set up monitoring and alerting for production systems",
+      "Participate in on-call rotation"
+    ],
+    "requirements": [
+      "3+ years backend development experience",
+      "Strong SQL and database design skills",
+      "Experience with cloud infra (AWS/GCP)",
+      "Understanding of distributed systems basics"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Product Designer",
+    "company": "Northwind Studio",
+    "location": "Hyderabad, IN (Hybrid)",
+    "type": "Full-time",
+    "salary": "₹10L - ₹16L / yr",
+    "posted": "2026-07-15",
+    "tags": ["Figma", "Design Systems", "UX Research"],
+    "description": "Shape the visual language of our design system and lead end-to-end design for new product surfaces.",
+    "responsibilities": [
+      "Own design system components and documentation",
+      "Conduct user research and usability testing",
+      "Partner with engineers during implementation",
+      "Present design decisions to stakeholders"
+    ],
+    "requirements": [
+      "3+ years of product design experience",
+      "Strong portfolio showing systems thinking",
+      "Familiarity with accessibility standards",
+      "Comfortable presenting and defending design decisions"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "DevOps Engineer",
+    "company": "Ledger Labs",
+    "location": "Remote (India)",
+    "type": "Contract",
+    "salary": "₹1.2L - ₹1.8L / month",
+    "posted": "2026-07-12",
+    "tags": ["CI/CD", "Docker", "Kubernetes"],
+    "description": "Help us mature our CI/CD pipelines and infrastructure-as-code practices as we scale to multi-region deployments.",
+    "responsibilities": [
+      "Build and maintain CI/CD pipelines",
+      "Manage containerized deployments",
+      "Automate infrastructure provisioning",
+      "Improve deployment reliability and rollback strategy"
+    ],
+    "requirements": [
+      "Experience with GitHub Actions or similar CI tools",
+      "Solid understanding of Docker and container orchestration",
+      "Scripting proficiency (Bash/Python)",
+      "Experience with infrastructure-as-code (Terraform a plus)"
+    ]
+  }
+]
